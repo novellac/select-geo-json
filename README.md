@@ -1,5 +1,5 @@
 # select-geo-json
-Select option values for geographic areas, in JSON format.
+Select option values for geographic areas, in [JSON](https://www.json.org/) format.
 
 ## Background
 I needed a set of geographic areas for use in the [Vue](https://vuejs.org/) app I was making. I didn't find what I needed, so I created it. It can be used in any HTML form (or anywhere you use JSON). 
