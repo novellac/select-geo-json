@@ -1,4 +1,4 @@
-# select-geo-json
+# select-place-json
 Select option values for geographic areas, in [JSON](https://www.json.org/) format.
 
 ## Background
